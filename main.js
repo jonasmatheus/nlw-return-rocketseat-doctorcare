@@ -2,6 +2,8 @@
 // Number (números)
 // Boolean (true | false)
 
+const navigation = document.getElementById('navigation')
+
 window.addEventListener('scroll', onScroll)
 
 onScroll()
